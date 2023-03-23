@@ -1,5 +1,5 @@
-# hello-world
-just another repository
+# Java-Projects
+just another Java repository
 
-jerevilla here, I like node.js and coffeescript (that's what I'm made off).
-I've had tacos on the noon and fiind then far superior to Earth tacos.
+jerevilla here, I like programming java and spring (that's what I'm made of), but also other languages.
+check the other repositories
